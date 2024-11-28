@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">A passionate software developer from Vancouver, Canada</h3>
 
-- 🔭 I’m currently working on [CalorieLens](https://github.com/al-zivkovic/CalorieLensMaster)
-
-- 🌱 I’m currently learning **elixir**
-
 - 👨‍💻 All of my projects are available at [alzivkovic.com](alzivkovic.com)
-
-- 💬 Ask me about **react and python**
 
 - 📫 How to reach me **alzivkovic@outlook.com**
 
