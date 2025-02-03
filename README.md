@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
 <h3 align="center">A passionate software developer from Vancouver, Canada</h3>
 
-- 👨‍💻 All of my projects are available at [alzivkovic.com](alzivkovic.com)
-
 - 📫 How to reach me **alzivkovic@outlook.com**
 
 <h3 align="left">Languages and Tools:</h3>
