@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aleksandar</h1>
-<h3 align="center">A passionate software developer from Vancouver, Canada</h3>
 
 - 📫 How to reach me **alzivkovic@outlook.com**
 
